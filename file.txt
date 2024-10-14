@@ -1,0 +1,2 @@
+Esta es la primera linea de mi fichero a trabajar con GIT
+
